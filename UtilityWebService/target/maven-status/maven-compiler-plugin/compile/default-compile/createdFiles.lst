@@ -1,0 +1,12 @@
+com\customerservice\customerdetails\webservice\ServicePlanWS.class
+com\customerservice\customerdetails\model\Customer.class
+com\customerservice\customerdetails\jms\JMSListener.class
+com\customerservice\customerdetails\service\MessageService.class
+com\customerservice\customerdetails\model\ServicePlan.class
+com\customerservice\customerdetails\service\UtilityService.class
+com\customerservice\customerdetails\dao\MessageServiceDao.class
+com\customerservice\customerdetails\webservice\CustomerServiceWS.class
+com\customerservice\customerdetails\service\CustomerService.class
+com\customerservice\customerdetails\util\HIbernateUtil.class
+com\customerservice\customerdetails\dao\CustomerServiceDao.class
+com\customerservice\customerdetails\dao\ServicePlanDAO.class

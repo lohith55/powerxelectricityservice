@@ -1,0 +1,12 @@
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\model\Customer.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\service\UtilityService.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\dao\CustomerServiceDao.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\model\ServicePlan.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\dao\MessageServiceDao.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\service\CustomerService.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\dao\ServicePlanDAO.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\jms\JMSListener.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\util\HIbernateUtil.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\service\MessageService.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\webservice\CustomerServiceWS.java
+C:\BCJMay16\Workspace\UtilityWebService\src\main\java\com\customerservice\customerdetails\webservice\ServicePlanWS.java
